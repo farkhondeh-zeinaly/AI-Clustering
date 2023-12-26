@@ -1,0 +1,79 @@
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.0\SharpCluster\bin\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.0\SharpCluster\bin\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.0\SharpCluster\obj\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.0\SharpCluster\obj\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.1\SharpCluster\obj\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.1\SharpCluster\obj\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.1\SharpCluster\bin\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.1\SharpCluster\bin\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.2\SharpCluster\bin\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.2\SharpCluster\bin\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.2\SharpCluster\obj\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.2\SharpCluster\obj\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.2\SharpCluster\obj\Debug\SharpCluster.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.3\SharpCluster\bin\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.3\SharpCluster\bin\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.3\SharpCluster\obj\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.3\SharpCluster\obj\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.3\SharpCluster\obj\Debug\SharpCluster.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.4\SharpCluster\bin\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.4\SharpCluster\bin\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.4\SharpCluster\obj\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.4\SharpCluster\obj\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.4\SharpCluster\obj\Debug\SharpCluster.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.6\SharpCluster\bin\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.6\SharpCluster\bin\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.6\SharpCluster\obj\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.6\SharpCluster\obj\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.7\SharpCluster\bin\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.7\SharpCluster\bin\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.7\SharpCluster\obj\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.7\SharpCluster\obj\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.8\SharpCluster\bin\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.8\SharpCluster\bin\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.8\SharpCluster\obj\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster1.8\SharpCluster\obj\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.0\SharpCluster\bin\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.0\SharpCluster\bin\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.0\SharpCluster\obj\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.0\SharpCluster\obj\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.2\SharpCluster\bin\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.2\SharpCluster\bin\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.2\SharpCluster\obj\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.2\SharpCluster\obj\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.2\SharpCluster\bin\Debug\SharpCluster.dll.CodeAnalysisLog.xml
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.2\SharpCluster\bin\Debug\SharpCluster.dll.lastcodeanalysissucceeded
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.3\SharpCluster\bin\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.3\SharpCluster\bin\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.3\SharpCluster\bin\Debug\SharpCluster.dll.CodeAnalysisLog.xml
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.3\SharpCluster\bin\Debug\SharpCluster.dll.lastcodeanalysissucceeded
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.3\SharpCluster\obj\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.3\SharpCluster\obj\Debug\SharpCluster.pdb
+C:\Users\Rodrigo\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.3\SharpCluster\bin\Debug\SharpCluster.dll
+C:\Users\Rodrigo\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.3\SharpCluster\bin\Debug\SharpCluster.pdb
+C:\Users\Rodrigo\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.3\SharpCluster\bin\Debug\SharpCluster.dll.CodeAnalysisLog.xml
+C:\Users\Rodrigo\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.3\SharpCluster\bin\Debug\SharpCluster.dll.lastcodeanalysissucceeded
+C:\Users\Rodrigo\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.3\SharpCluster\obj\Debug\SharpCluster.dll
+C:\Users\Rodrigo\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.3\SharpCluster\obj\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster3.3\SharpCluster\obj\Debug\SharpCluster.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster4.0\SharpCluster\bin\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster4.0\SharpCluster\bin\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster4.0\SharpCluster\bin\Debug\SharpCluster.dll.CodeAnalysisLog.xml
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster4.0\SharpCluster\bin\Debug\SharpCluster.dll.lastcodeanalysissucceeded
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster4.0\SharpCluster\obj\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\FACCAMP\Qualificacao\ProjetoCSharp\SharpCluster4.0\SharpCluster\obj\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\MyCSharpProjects\MyArticles\CodeProject\source\SharpCluster\bin\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\MyCSharpProjects\MyArticles\CodeProject\source\SharpCluster\bin\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\MyCSharpProjects\MyArticles\CodeProject\source\SharpCluster\bin\Debug\SharpCluster.dll.CodeAnalysisLog.xml
+C:\Users\rodri\Dropbox\MyCSharpProjects\MyArticles\CodeProject\source\SharpCluster\bin\Debug\SharpCluster.dll.lastcodeanalysissucceeded
+C:\Users\rodri\Dropbox\MyCSharpProjects\MyArticles\CodeProject\source\SharpCluster\obj\Debug\SharpCluster.dll
+C:\Users\rodri\Dropbox\MyCSharpProjects\MyArticles\CodeProject\source\SharpCluster\obj\Debug\SharpCluster.pdb
+C:\Users\rodri\Dropbox\MyCSharpProjects\MyArticles\CodeProject\source\SharpCluster\obj\Debug\SharpCluster.csprojResolveAssemblyReference.cache
+E:\Projects\Farkhondeh Projects\Clustering\SharpCluster\SharpCluster\bin\Debug\SharpCluster.dll
+E:\Projects\Farkhondeh Projects\Clustering\SharpCluster\SharpCluster\bin\Debug\SharpCluster.pdb
+E:\Projects\Farkhondeh Projects\Clustering\SharpCluster\SharpCluster\bin\Debug\SharpCluster.dll.CodeAnalysisLog.xml
+E:\Projects\Farkhondeh Projects\Clustering\SharpCluster\SharpCluster\bin\Debug\SharpCluster.dll.lastcodeanalysissucceeded
+E:\Projects\Farkhondeh Projects\Clustering\SharpCluster\SharpCluster\obj\Debug\SharpCluster.csprojResolveAssemblyReference.cache
+E:\Projects\Farkhondeh Projects\Clustering\SharpCluster\SharpCluster\obj\Debug\SharpCluster.csproj.CoreCompileInputs.cache
+E:\Projects\Farkhondeh Projects\Clustering\SharpCluster\SharpCluster\obj\Debug\SharpCluster.dll
+E:\Projects\Farkhondeh Projects\Clustering\SharpCluster\SharpCluster\obj\Debug\SharpCluster.pdb

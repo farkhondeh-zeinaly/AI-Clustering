@@ -1,0 +1,10 @@
+E:\Projects\Farkhondeh Projects\Clustering\ResoveDataset\ResoveDataset\bin\Debug\ResoveDataset.exe.config
+E:\Projects\Farkhondeh Projects\Clustering\ResoveDataset\ResoveDataset\bin\Debug\ResoveDataset.exe
+E:\Projects\Farkhondeh Projects\Clustering\ResoveDataset\ResoveDataset\bin\Debug\ResoveDataset.pdb
+E:\Projects\Farkhondeh Projects\Clustering\ResoveDataset\ResoveDataset\obj\Debug\ResoveDataset.csprojResolveAssemblyReference.cache
+E:\Projects\Farkhondeh Projects\Clustering\ResoveDataset\ResoveDataset\obj\Debug\ResoveDataset.Form1.resources
+E:\Projects\Farkhondeh Projects\Clustering\ResoveDataset\ResoveDataset\obj\Debug\ResoveDataset.Properties.Resources.resources
+E:\Projects\Farkhondeh Projects\Clustering\ResoveDataset\ResoveDataset\obj\Debug\ResoveDataset.csproj.GenerateResource.Cache
+E:\Projects\Farkhondeh Projects\Clustering\ResoveDataset\ResoveDataset\obj\Debug\ResoveDataset.csproj.CoreCompileInputs.cache
+E:\Projects\Farkhondeh Projects\Clustering\ResoveDataset\ResoveDataset\obj\Debug\ResoveDataset.exe
+E:\Projects\Farkhondeh Projects\Clustering\ResoveDataset\ResoveDataset\obj\Debug\ResoveDataset.pdb
